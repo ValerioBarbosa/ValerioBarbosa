@@ -1,32 +1,48 @@
-# Olá, eu sou Valério Barbosa 👋
+# Valério Barbosa
 
-Desenvolvedor de aplicações mobile e web, com foco em transformar necessidades reais em soluções digitais organizadas, funcionais e fáceis de usar.
+Desenvolvedor Mobile & Web | Flutter · JavaScript · Firebase · Supabase
+
+Desenvolvedor de aplicações mobile e web, com experiência prática na construção de soluções completas — autenticação, bancos de dados locais e em nuvem, sincronização de dados e interfaces responsivas, incluindo sistemas com funcionamento online e offline.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
 
 ## Sobre mim
 
-Tenho experiência prática no desenvolvimento de sistemas com funcionamento online e offline, autenticação, bancos de dados locais e em nuvem, sincronização de informações e interfaces responsivas. Meus projetos atuais envolvem gestão operacional e leitura de medidores em condomínios.
-
-## Tecnologias
-
-- **Mobile:** Flutter e Dart
-- **Front-end:** HTML5, CSS3 e JavaScript
-- **Back-end e dados:** Supabase, PostgreSQL, SQLite, Firebase Authentication e Cloud Firestore
-- **Práticas:** arquitetura em camadas, aplicações offline-first, integração de APIs, Git e GitHub
-- **Recursos aplicados:** OCR, relatórios PDF/Excel/CSV e interfaces responsivas
+Atuo no desenvolvimento de aplicações mobile e web com foco em transformar necessidades reais em soluções digitais organizadas, funcionais e prontas para produção. Meus projetos atuais envolvem gestão operacional e leitura de medidores em condomínios.
 
 ## Projetos em destaque
 
 ### [CondoLeitura](https://github.com/ValerioBarbosa/CondoLeitura)
-
-Aplicativo Flutter para leitura e gestão de medidores de água e gás em condomínios. O projeto utiliza arquitetura offline-first, SQLite local, Supabase, sincronização de dados, OCR e geração de relatórios.
-
-**Tecnologias:** Flutter, Dart, Provider, SQLite, Supabase e PostgreSQL.
+Aplicativo Flutter para leitura e gestão de medidores de água e gás em condomínios.
+- Arquitetura offline-first com SQLite local e sincronização via Supabase
+- OCR para leitura automática de medidores
+- Geração de relatórios (PDF/Excel/CSV)
+- **Tecnologias:** Flutter, Dart, Provider, SQLite, Supabase, PostgreSQL
 
 ### [Programação Operacional 4º RPMon](https://github.com/ValerioBarbosa/programacao-eventos-4rpmon)
+Aplicação web para consulta e administração de agenda de eventos operacionais.
+- Pesquisa e filtros dinâmicos
+- Autenticação de usuários
+- Atualização de dados em tempo real
+- **Tecnologias:** HTML, CSS, JavaScript, Firebase Authentication, Cloud Firestore
 
-Aplicação web para consulta e administração de uma agenda de eventos operacionais, com pesquisa, filtros, autenticação e atualização de dados em tempo real.
+## Stack técnica
 
-**Tecnologias:** HTML, CSS, JavaScript, Firebase Authentication e Cloud Firestore.
+| Área | Tecnologias |
+|---|---|
+| **Mobile** | Flutter, Dart |
+| **Front-end** | HTML5, CSS3, JavaScript |
+| **Back-end e dados** | Supabase, PostgreSQL, SQLite, Firebase Authentication, Cloud Firestore |
+| **Práticas** | Arquitetura em camadas, aplicações offline-first, integração de APIs, Git e GitHub |
+| **Recursos aplicados** | OCR, relatórios PDF/Excel/CSV, interfaces responsivas |
 
 ## Objetivo profissional
 
@@ -34,5 +50,6 @@ Busco oportunidades para contribuir com equipes de desenvolvimento, evoluir tecn
 
 ## Contato
 
-- **E-mail:** [valerio.direito@gmail.com](mailto:valerio.direito@gmail.com)
+- **E-mail:** valerio.direito@gmail.com
+- **LinkedIn:** [linkedin.com/in/valerio-barbosa-316ab02b5](https://www.linkedin.com/in/valerio-barbosa-316ab02b5)
 - **GitHub:** [github.com/ValerioBarbosa](https://github.com/ValerioBarbosa)
